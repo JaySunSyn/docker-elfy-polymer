@@ -1,2 +1,3 @@
 # elfy-polymer
-docker 
+## Build
+docker build -t jalalio/elfy-polymer .
